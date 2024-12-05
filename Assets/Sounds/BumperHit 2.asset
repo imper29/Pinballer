@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4e0a022d3427d84988f7aee1d9bc6e0, type: 3}
+  m_Name: BumperHit 2
+  m_EditorClassIdentifier: 
+  m_Volume: 0.5
+  m_VolumeRange: 0
+  m_Pitch: 1
+  m_PitchRange: 0.07
+  m_Priority: 128
+  m_Start: 0
+  m_Stop: 8
+  m_Source: {fileID: 8300000, guid: 7b7c6bea0e19c8c4f8c28e035374fe90, type: 3}
+  m_PlaybackPrefab: {fileID: -695697306266020660, guid: 9534d5e88fe117748b745ba370ffd787, type: 3}
